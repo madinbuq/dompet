@@ -1,6 +1,6 @@
 {
-  "name": "BUQ Information System",
-  "short_name": "BUQIS",
+  "name": "Dompet Arin",
+  "short_name": "Domrin",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
